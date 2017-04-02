@@ -1,2 +1,6 @@
 # hello_world
-This is part of my homework.
+This is a practice.
+
+hello_world
+hello_world
+hello
